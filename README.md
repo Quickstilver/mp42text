@@ -1,4 +1,4 @@
-# mp42text
+# video2text
 
 
 This project aims to provide an easy-to-use pipeline for extracting transcriptions from lengthy video recordings, such as a summit, with minimal effort. By leveraging state-of-the-art technologies and models, this pipeline saves time and resources, enabling you to focus on analyzing and summarizing the content of the transcriptions.
