@@ -20,7 +20,7 @@ This project aims to provide an easy-to-use pipeline for extracting transcriptio
 
 ## Main Steps:
 
-1. Upload the notebook on Colab into the 'Colab Notebooks' folder
+1. Upload the [notebook](https://github.com/Quickstilver/video2text/blob/ac6af00c2479f7cce80c5c5ad04cdcc95fb3c8b6/wav2text.ipynb) on Colab into the 'Colab Notebooks' folder
 2. Create a 'Colab Notebooks/data/' folder and upload you file.mp4
 3. Run all the cells on Colab:
 
